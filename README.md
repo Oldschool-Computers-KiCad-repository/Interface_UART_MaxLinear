@@ -15,14 +15,19 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 ## 1. Components
 ### 1.1 Symbols
 #### 1.1.a Interface_UART_MaxLinear.kicad_sym
-|Company|Component|Datasheet|Packages| 1st version |
-|:------|:--------|:--------|:-------|:------------|
+| Company | Component | Description | Datasheet | Packages | 1st version |
+|:--------|:----------|:------------|:----------|:---------|:------------|
+| MaxLinear | XR17V352 | HIGH PERFORMANCE DUAL PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v352.pdf) | FPBGA-113 | 1.0.0 |
+| MaxLinear | XR17V354 | HIGH PERFORMANCE QUAD PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v354.pdf) | FPBGA-176 | 1.0.0 |
+| MaxLinear | XR17V358 | HIGH PERFORMANCE OCTAL PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v358.pdf) | FPBGA-176 | 1.0.0 |
 
 
 ### 1.2 Footprints
-#### 1.2.a Connector_GPIB.pretty
-|Company|Component|Datasheet|Packages| 1st version |
-|:------|:--------|:--------|:-------|:------------|
+#### 1.2.a Package_BGA_MaxLinear.pretty
+| Name | Package | Pins | Size | Layout | 1st version |
+|:-----|:--------|:-----|:-----|:-------|:------------|
+| MaxLinear_FPBGA-113_9.0x9.0mm_Layout11x11_P0.8mm | FPBGA | 113 | 9x9mm | 11x11 | 1.0.0 |
+| MaxLinear_FPBGA-176_13x13mm_Layout15x15_P0.8mm | FPBGA | 176 | 13x13mm | 15x15 | 1.0.0 |
 
 
 ### 1.3 3Dshapes
