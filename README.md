@@ -1,7 +1,6 @@
 # KiCad Library for UART interfaces from MaxLinear
 
 ![Required KiCad Version](https://img.shields.io/badge/KiCad-%3E%3D7.0-success)
-![Minimum KiCad Version](https://img.shields.io/badge/KiCad-=6.0-orange)
 ![License](https://img.shields.io/github/license/Oldschool-Computers-KiCad-repository/Interface_UART_MaxLinear)
 ![Downloads](https://img.shields.io/github/downloads/Oldschool-Computers-KiCad-repository/Interface_UART_MaxLinear/total)
 
