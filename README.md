@@ -10,6 +10,8 @@ This repository is not endorsed by any company and has no connection with any co
 
 This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 
+![Sreenshot of symbol for XR17V354](https://raw.githubusercontent.com/Oldschool-Computers-KiCad-repository/.github/refs/heads/main/img/XR17V354.png "XR17V354")
+
 
 ## 1. Components
 ### 1.1 Symbols
