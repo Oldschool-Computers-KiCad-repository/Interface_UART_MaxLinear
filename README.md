@@ -21,6 +21,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | MaxLinear | XR17V352 | HIGH PERFORMANCE DUAL PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v352.pdf) | FPBGA-113 | 1.0.0 |
 | MaxLinear | XR17V354 | HIGH PERFORMANCE QUAD PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v354.pdf) | FPBGA-176 | 1.0.0 |
 | MaxLinear | XR17V358 | HIGH PERFORMANCE OCTAL PCI EXPRESS UART | [datasheet](https://www.maxlinear.com/ds/xr17v358.pdf) | FPBGA-176 | 1.0.0 |
+| MaxLinear | XR20M1170IL16 | I2C/SPI UART with 64-Byte FIFO | [datasheet](https://www.maxlinear.com/ds/xr20m1170.pdf) | QFN-16 | 1.0.0 |
 
 
 ### 1.2 Footprints
