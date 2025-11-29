@@ -24,6 +24,7 @@ This library follows the [KiCad Library Convention](https://klc.kicad.org/).
 | MaxLinear | XR20M1170IL16 | I2C/SPI UART with 64-Byte FIFO | [datasheet](https://www.maxlinear.com/ds/xr20m1170.pdf) | QFN-16 | 1.0.0 |
 | MaxLinear | XR20M1170IG16 | I2C/SPI UART with 64-Byte FIFO | [datasheet](https://www.maxlinear.com/ds/xr20m1170.pdf) | TSSOP-16 | 1.0.0 |
 | MaxLinear | XR20M1170IL24 | I2C/SPI UART with 64-Byte FIFO | [datasheet](https://www.maxlinear.com/ds/xr20m1170.pdf) | QFN-24 | 1.0.0 |
+| MaxLinear | XR20M1170IG24 | I2C/SPI UART with 64-Byte FIFO | [datasheet](https://www.maxlinear.com/ds/xr20m1170.pdf) | TSSOP-24 | 1.0.0 |
 
 
 ### 1.2 Footprints
